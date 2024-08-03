@@ -1,5 +1,5 @@
 @echo off
 title CrystalDM (c) Akbarrdev
 
-node i
+npm i
 node start
