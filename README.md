@@ -1,24 +1,24 @@
 # GrowPlus Network
 _The best way to start creating your own GTPS server with our collaboration._
 
-## Developed by:
+Developed by:
 - GTPSHAX (Raden Putih)
 - Dems
 - BoreHans
 
-## Pricing:
+Pricing:
 - Mountly 20K IDR or 7DL RGT
-Buy chat +6283865662983 or DM gtpshax (Discord)
+Buy chat https://wa.me/6283865662983?chat="GrowPlus Network!" or DM gtpshax (Discord)
 
-## Add-On:
+Add-On:
 - Auto backup system like RGT (20K IDR or 7DL RGT) [NOTE: Only me can access the vps if this Add-On is enable]
 - Add CItem (30K IDR or 11DL RGT) [Universal update]
 
-# Credits:
+Credits:
 - Tron (Helping fixing new login system)
 - AkbarrDev (HTTP/s Tools)
 
-## QnA
+# QnA
 What is GrowPlus Network?
 _GrowPlus Network is a collaborative system that is very profitable for both parties._
 
