@@ -14,9 +14,9 @@ set "branchname=backup-%datestamp%_%timestamp%"
 
 REM Menjalankan perintah Git
 git config --global user.name "GTPSHAX"
-git config --global user.email "rafihasannudin@gmail.com"
+git config --global user.email "yourgmail@gmail.com"
 git init
-git remote add origin "https://github.com/GTPSHAX/VGenz.git"
+git remote add origin "Your repo"
 git add .
 git commit -m "Backup"
 git checkout -b "%branchname%"
