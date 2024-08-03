@@ -8,7 +8,7 @@ Developed by:
 
 Pricing:
 - Mountly 20K IDR or 7DL RGT
-Buy chat https://wa.me/6283865662983?chat="GrowPlus Network!" or DM gtpshax (Discord)
+Buy chat https://wa.me/6283865662983?chat="GrowPlus-Network!" or DM gtpshax (Discord)
 
 Add-On:
 - Auto backup system like RGT (20K IDR or 7DL RGT) [NOTE: Only me can access the vps if this Add-On is enable]
