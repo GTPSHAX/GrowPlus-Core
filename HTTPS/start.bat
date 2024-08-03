@@ -1,5 +1,5 @@
 @echo off
-title Noir Http/s
-color a
+title CrystalDM (c) Akbarrdev
 
-node app.js
+node i
+node start
