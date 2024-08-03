@@ -19,20 +19,20 @@ Credits:
 - AkbarrDev (HTTP/s Tools)
 
 # QnA
-What is GrowPlus Network?
+**What is GrowPlus Network?**
 _GrowPlus Network is a collaborative system that is very profitable for both parties._
 
-What's the profit?
+**What's the profit?**
 _Clients only need to pay around 20K IDR or 7DL (RGT) every month. And clients only need to manage the community and pay for their own VPS/RDP/VDS server, because we will only provide the core only._
 
-Can we request some update/features?
+**Can we request some update/features?**
 _Yes, but we have to consider first, knowing that the update is universal (all other clients also get the same update)._
 
-What happened if I change my VPS/RDP/VDS?
+**What happened if I change my VPS/RDP/VDS?**
 _You have to pay 5k for setup fee._
 
-Can I change the itemsDat?
+**Can I change the itemsDat?**
 _We recommend not changing it._
 
-Is there a refund?
+**Have any refund?**
 _No._
