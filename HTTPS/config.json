@@ -1,0 +1,28 @@
+{
+    "name_server": "GrowtopiaPS",
+    "loginurl": "login.gtps.pw",
+    "default_osm": "https://cdn.gtps.pw",
+    "ip": "159.223.85.17",
+    "port": "5555",
+    "type": 1,
+    "server_beta1": "gtpshax.site",
+    "port_beta1": "28028",
+    "type_beta1": 1,
+    "server_beta2": "gtpshax.site",
+    "port_beta2": "28028",
+    "type_beta2": 1,
+    "server_beta3": "gtpshax.site",
+    "port_beta3": "28028",
+    "type_beta3": 1,
+    "exe": "server.exe",
+    "url": {
+        "vhost": "",
+        "ptunel": ""
+    },
+    "path": {
+        "online": "../Online.txt",
+        "players": "../DATABASE/players",
+        "worlds": "../DATABASE/worlds",
+        "guilds": "../DATABASE/guilds"
+    }
+}

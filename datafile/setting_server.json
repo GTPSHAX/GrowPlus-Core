@@ -1,0 +1,30 @@
+{
+  "config_server": {
+    "autofarm_delay": 100,
+    "cdncache": "cache/",
+    "creator_list": [
+      "GTPSHAX",
+      "iDems"
+    ],
+    "foreground_block": 9718,
+    "music_lobby": "ogg/lobby_sound.ogg",
+    "news_banner_file": "interface/large/news_banner",
+    "osm": "www.growtopia1.com",
+    "port": 5555,
+    "server_name": "GYUSHS",
+    "weather_world": 74
+  },
+  "role_prefix": {
+    "clist_color": "`2[`bO`3wn`7er`2] `b@",
+    "co_color": "`4[`2[Co-Owner]`1@",
+    "dev_color": "`9@",
+    "founder_color": "`8@",
+    "mod_role": "`#@",
+    "own_color": "`e@",
+    "staff_color": "`2[`bSTAFF`2] `6@",
+    "superdev_color": "`6@",
+    "supermod_role": "`b@",
+    "vipplus_role": "`9[`4V`2I`6P`9]+ ",
+    "viprole": "`1"
+  }
+}
