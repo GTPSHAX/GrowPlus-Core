@@ -1,0 +1,107 @@
+[
+    {
+        "BreakHit": 3,
+        "Fars": 3,
+        "Gems": 3,
+        "ItemId": 20092,
+        "xpbonus": 1
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 5,
+        "Gems": 1,
+        "ItemId": 20272,
+        "xpbonus": 1
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 3,
+        "Gems": 5,
+        "ItemId": 5480,
+        "xpbonus": 1
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 6,
+        "Gems": 5,
+        "ItemId": 9906,
+        "xpbonus": 2
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 10,
+        "Gems": 10,
+        "ItemId": 9908,
+        "xpbonus": 3
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 4,
+        "Gems": 4,
+        "ItemId": 9770,
+        "xpbonus": 2
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 8,
+        "Gems": 8,
+        "ItemId": 9846,
+        "xpbonus": 3
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 7,
+        "Gems": 7,
+        "ItemId": 9772,
+        "xpbonus": 3
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 6,
+        "Gems": 6,
+        "ItemId": 5940,
+        "xpbonus": 4
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 4,
+        "Gems": 7,
+        "ItemId": 5928,
+        "xpbonus": 3
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 9,
+        "Gems": 9,
+        "ItemId": 10290,
+        "xpbonus": 5
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 6,
+        "Gems": 8,
+        "ItemId": 9918,
+        "xpbonus": 5
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 3,
+        "Gems": 5,
+        "ItemId": 10362,
+        "xpbonus": 10
+    },
+    {
+        "BreakHit": 2,
+        "Fars": 1,
+        "Gems": 10,
+        "ItemId": 6840,
+        "xpbonus": 10
+    },
+    {
+        "BreakHit": 1,
+        "Fars": 1,
+        "Gems": 20,
+        "ItemId": 10384,
+        "xpbonus": 1
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "webhooks": {
+      "daily_announcements": "https://discord.com/api/webhooks/1258427374983188602/73quUdPCitHB2VE3vrvKzdcQwOhiaj_ig7DbMOw8TVWXaNoAFzX7HFV1Khs7sD3bTSue",
+      "punishment_logs": "https://discord.com/api/webhooks/1258427619204923526/synUhNH3EVIjVqor5RFJ8twi7_Rkt5Z1yO0OgXzVych8iArtYzFhMQ1CoN0hiamt8H1q",
+      "packet_logs": "https://discord.com/api/webhooks/1258427619204923526/synUhNH3EVIjVqor5RFJ8twi7_Rkt5Z1yO0OgXzVych8iArtYzFhMQ1CoN0hiamt8H1q",
+      "user_logs": "https://discord.com/api/webhooks/1258427619204923526/synUhNH3EVIjVqor5RFJ8twi7_Rkt5Z1yO0OgXzVych8iArtYzFhMQ1CoN0hiamt8H1q",
+      "punish_logs": "https://discord.com/api/webhooks/1258427619204923526/synUhNH3EVIjVqor5RFJ8twi7_Rkt5Z1yO0OgXzVych8iArtYzFhMQ1CoN0hiamt8H1q",
+      "sdrop_logs": "https://discord.com/api/webhooks/1258420283052789811/xWV5cT-wq1hJZ3uWrEakv7CKDJR5mZP3QJVyfMBdk3f7wC2Hjjc9DioezqKVTxCSGKq_",
+      "caccount_logs": "https://discord.com/api/webhooks/1258430107740143676/GTbIf6yegvkveSlIXu8QbUleELkO7OBoP5fNUuWNiLdWeRTeojrY5UmeKBFeAM_UV2Iz",
+      "login_logs": "https://discord.com/api/webhooks/1258430107740143676/GTbIf6yegvkveSlIXu8QbUleELkO7OBoP5fNUuWNiLdWeRTeojrY5UmeKBFeAM_UV2Iz"
+    },
+    "server_name": "GrowPlus"
+  }
+  
