@@ -1,84 +1,100 @@
-# CrystalDM - Advanced DDoS Mitigation System for GTPS
 
-CrystalDM is an advanced DDoS Mitigation System specifically designed for Growtopia Private Servers (GTPS) using Node.js. Developed by Akbarrdev, this system offers comprehensive logging, multiple security plugins, and server monitoring capabilities.
+**Project Name: Growtopia HTTPS**
 
-## Features
+---
 
-- Real-time Protection
-- High Performance
-- Easy Configuration
-- Comprehensive Logging
-- Multiple Security Plugins
-- Server Monitoring
+### Description:
+Growtopia HTTPS provides a secure server for the popular game Growtopia, ensuring encrypted communication with the use of HTTPS protocol. This project enhances server security and performance through advanced features such as rate limiting, IP blacklisting, request filtering, and efficient caching.
 
-## Key Components
+---
 
-1. Client Management
-2. HTTPS Redirect
-3. Geo Ban
-4. Auto Blacklist
-5. Rate Limiter
-6. Hide Server Data
-7. IP Reputation Check
-8. Adaptive Rate Limiter
-9. Under Attack Mode
-10. Server Processing
-11. Response Handling
+### Usage:
 
-## Installation
+1. **Download Executable:**
+   - Obtain the pre-built executable file `HTTPServer.exe` from the provided link.
 
-1. Clone the repository:
-```
-git clone https://github.com/akbarrdev/CrystalDM.git ./
-```
-2. Install the required dependencies:
-```
-npm install
-```
-3. Configure the system by editing the `config.json` file with your server details and security settings.
-4. Start the system:
-```
-npm run start
-```
-5. Access the server monitor by visiting `https://your-server-ip/monitor` in your web browser.
+2. **Configuration:**
+   - Place your SSL certificate (`cert.pem`) and private key (`key.pem`) in the same directory as the executable.
+   - Edit the `config.json` file located in the `db` directory to configure server details (e.g., server name, port, and meta).
+   - Update the `blacklist.txt` file in the `db` directory with IP addresses to be blocked by the server.
 
+3. **Running the Server:**
+   - Execute the `HTTPServer.exe` file by double-clicking it.
+   - The server will start and listen for incoming connections on `0.0.0.0:443`.
 
-## Configuration
+---
 
-Edit the `config.json` file to customize the system according to your needs. Key configuration options include:
+### Features:
 
-- Server ports (TCP and UDP)
-- Security settings (Auto Blacklist, Geo Ban, Rate Limiter, etc.)
-- Discord webhook for reporting
-- HTTPS settings
+- **HTTPS Support:**
+  - Leverages OpenSSL to provide secure HTTPS communication.
 
-## Usage
+- **Rate Limiting:**
+  - Implements safeguards against excessive requests from individual IP addresses.
 
-After starting the server, CrystalDM will automatically protect your GTPS from DDoS attacks. You can monitor the server's performance and view logs through the provided web interface.
+- **IP Blacklisting:**
+  - Blocks malicious IP addresses dynamically. Update `blacklist.txt` with IPs to block them.
 
-## Monitoring
+- **Request Filtering:**
+  - Filters harmful HTTP methods and rejects oversized requests to protect server integrity.
 
-Access the server monitor by navigating to `https://your-server-ip/monitor` in your web browser. This provides real-time statistics on CPU usage, memory usage, response time, and uptime.
+- **Caching:**
+  - Improves performance by caching frequently requested content.
 
-## Contributing
+- **Request Logging:**
+  - Logs incoming requests with timestamps for effective monitoring and debugging.
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- **Proxy Attack Detection:**
+  - Detects and mitigates potential proxy-based DDoS attacks.
 
-## License
+- **Dynamic Configuration Loading:**
+  - Supports dynamic loading of server configurations from a JSON file for flexibility.
 
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
+- **Content Delivery:**
+  - Efficiently serves content with caching support and proper handling of missing files.
 
+- **Custom Dialog Notifications:**
+  - Displays customizable popup dialogs for server status updates or alerts.
 
-## Community
+---
 
-Join our community to get support, share experiences, and stay updated on the latest developments:
+### Endpoints:
 
-[![Join our Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2M2TA5TPau)
+- **Server Data Endpoint:**
+  - **URL:** `/growtopia/server_data.php`
+  - **Description:** Handles requests related to retrieving server data.
 
-[![Join our WhatsApp Channel](https://img.shields.io/badge/Join%20our-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaZAopA8fewhXJvqxt18)
+- **Cache Endpoint:**
+  - **URL:** `/cache/<file_path>`
+  - **Description:** Retrieves cached content based on the specified file path.
 
-Stay connected with the CrystalDM community and get real-time updates, support, and engage with other users!
+- **Blacklist Management:**
+  - **Description:** Manage IP blacklisting through the `blacklist.txt` file. The server will reload the blacklist dynamically upon updates.
 
-## Acknowledgments
+---
 
-- Thanks to [YoruAkio](https://github.com/YoruAkio) and users of CrystalDM
+### Dependencies:
+- **OpenSSL:** Provides SSL/TLS support for secure communication.
+- **nlohmann/json:** Facilitates JSON handling and parsing.
+- **cpp-httplib:** C++ HTTP library for handling HTTP requests and responses.
+
+---
+
+### License:
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### Contact:
+For support or inquiries, please reach out to us via our [Telegram Channel](https://t.me/htfgtps).
+
+---
+
+### Acknowledgements:
+We extend our gratitude to the creators of the libraries utilized in this project and the Growtopia community for their ongoing inspiration and support.
+
+---
+
+**© 2024 How To Fix (GTPS). All rights reserved.**
+
+---

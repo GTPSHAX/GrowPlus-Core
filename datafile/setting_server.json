@@ -10,7 +10,7 @@
     "music_lobby": "ogg/lobby_sound.ogg",
     "news_banner_file": "interface/large/news_banner",
     "osm": "www.growtopia1.com",
-    "port": 5555,
+    "port": 6666,
     "server_name": "GYUSHS",
     "weather_world": 74
   },

@@ -1,1 +1,104 @@
-{"all_access":false,"coleader_access":false,"coleader_elder_access":false,"guild_description":"`ePlayJust `cHaveFun","guild_level":8,"guild_logs":[{"date":1719542096,"display_id":6,"info":"`$Arezzz`` `wwas invited by`` `$San``"},{"date":1719542103,"display_id":6,"info":"`$Arezzz`` `wwas invited by`` `$San``"},{"date":1719542112,"display_id":5948,"info":"`$Arezzz`` `wjoined the guild"},{"date":1719542126,"display_id":484,"info":"`$San`` `2promoted `$Arezzz`` `oto Elder"},{"date":1719545184,"display_id":6,"info":"`$higH`` `wwas invited by`` `$San``"},{"date":1719545204,"display_id":5948,"info":"`$higH`` `wjoined the guild"},{"date":1719554302,"display_id":6,"info":"`$TheSukii`` `wwas invited by`` `$San``"},{"date":1719554305,"display_id":5948,"info":"`$TheSukii`` `wjoined the guild"},{"date":1719554318,"display_id":484,"info":"`$San`` `2promoted `$TheSukii`` `oto Elder"},{"date":1719620185,"display_id":5948,"info":"`$luna`` `wleft the guild"}],"guild_mascot":[0,5956],"guild_members":[{"last_online":1719557608,"member_name":"San","public_location":true,"role_id":3,"show_notifications":true},{"last_online":1720104450,"member_name":"Bimm","public_location":true,"role_id":2,"show_notifications":true},{"last_online":1719585684,"member_name":"Arezzz","public_location":true,"role_id":1,"show_notifications":true},{"last_online":1719585628,"member_name":"higH","public_location":true,"role_id":0,"show_notifications":true},{"last_online":1719554943,"member_name":"TheSukii","public_location":true,"role_id":1,"show_notifications":true}],"guild_name":"Moderator","guild_world":"MODERATOR","guild_xp":1250251,"unlocked_mascot":1}
+{
+	"all_access": false,
+	"coleader_access": false,
+	"coleader_elder_access": false,
+	"guild_description": "`ePlayJust `cHaveFun",
+	"guild_level": 8,
+	"guild_logs": [
+		{
+			"date": 1719542096,
+			"display_id": 6,
+			"info": "`$Arezzz`` `wwas invited by`` `$San``"
+		},
+		{
+			"date": 1719542103,
+			"display_id": 6,
+			"info": "`$Arezzz`` `wwas invited by`` `$San``"
+		},
+		{
+			"date": 1719542112,
+			"display_id": 5948,
+			"info": "`$Arezzz`` `wjoined the guild"
+		},
+		{
+			"date": 1719542126,
+			"display_id": 484,
+			"info": "`$San`` `2promoted `$Arezzz`` `oto Elder"
+		},
+		{
+			"date": 1719545184,
+			"display_id": 6,
+			"info": "`$higH`` `wwas invited by`` `$San``"
+		},
+		{
+			"date": 1719545204,
+			"display_id": 5948,
+			"info": "`$higH`` `wjoined the guild"
+		},
+		{
+			"date": 1719554302,
+			"display_id": 6,
+			"info": "`$TheSukii`` `wwas invited by`` `$San``"
+		},
+		{
+			"date": 1719554305,
+			"display_id": 5948,
+			"info": "`$TheSukii`` `wjoined the guild"
+		},
+		{
+			"date": 1719554318,
+			"display_id": 484,
+			"info": "`$San`` `2promoted `$TheSukii`` `oto Elder"
+		},
+		{
+			"date": 1719620185,
+			"display_id": 5948,
+			"info": "`$luna`` `wleft the guild"
+		}
+	],
+	"guild_mascot": [
+		0,
+		5956
+	],
+	"guild_members": [
+		{
+			"last_online": 1719557608,
+			"member_name": "San",
+			"public_location": true,
+			"role_id": 3,
+			"show_notifications": true
+		},
+		{
+			"last_online": 1720104450,
+			"member_name": "Bimm",
+			"public_location": true,
+			"role_id": 2,
+			"show_notifications": true
+		},
+		{
+			"last_online": 1719585684,
+			"member_name": "Arezzz",
+			"public_location": true,
+			"role_id": 1,
+			"show_notifications": true
+		},
+		{
+			"last_online": 1719585628,
+			"member_name": "higH",
+			"public_location": true,
+			"role_id": 0,
+			"show_notifications": true
+		},
+		{
+			"last_online": 1719554943,
+			"member_name": "TheSukii",
+			"public_location": true,
+			"role_id": 1,
+			"show_notifications": true
+		}
+	],
+	"guild_name": "Moderator",
+	"guild_world": "MODERATOR",
+	"guild_xp": 1250251,
+	"unlocked_mascot": 1
+}
