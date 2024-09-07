@@ -1,1 +1,14 @@
-{"today":[[1,"START"]],"yesterday":[[1,"BFGF"]], "overall": []}
+{
+    "today": [
+        [
+            1,
+            "START"
+        ]
+    ],
+    "yesterday": [
+        [
+            1,
+            "BFGF"
+        ]
+    ]
+}
