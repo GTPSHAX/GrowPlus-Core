@@ -1,16 +1,12 @@
 {
-  "banner": "growplus/news/demo_banner.rttex",
-  "title": "GrowPlus Network 2 - Gezzate",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-  "footer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-  "updates": [
-    [
-      "Lorem",
-      "Lorem"
-    ],
-    [
-      "Lorem",
-      "Lorem"
+    "banner": "growplus/news/demo_banner.rttex",
+    "description": "GrowPlus is a GTPS project with unique features and gameplay.<CR>Developed by GrowPlus Community using GT3 Remake by Jar, coded in C++. Full version available via DM to GTPSHAX/Dems on Discord.",
+    "footer": "Thanks for trying this app. Feel free to give feedback or suggestions; we appreciate it.",
+    "title": "GrowPlus - Demo mode",
+    "updates": [
+        [
+            "Beta Mode",
+            "Free features to test server functionality before buying the full version."
+        ]
     ]
-  ]
 }
